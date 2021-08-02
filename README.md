@@ -1,4 +1,5 @@
-
+# Software Engineering Resources
+A compilation of Software Engineering resources based on [Phong's](tiktok.com/@pgt__) "Best Engineering Resources" Tiktok series 
 ## Resources
 
 ### 

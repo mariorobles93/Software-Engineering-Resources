@@ -59,6 +59,27 @@ Quite literally a degree equivalent!
 
 The OSSU curriculum is a complete education in computer science using online materials. It's not merely for career training or professional development. It's for those who want a proper, well-rounded grounding in concepts fundamental to all computing disciplines, and for those who have the discipline, will, and (most importantly!) good habits to obtain this education largely on their own, but with support from a worldwide community of fellow learners.
 
+### 
+### [ReadMe.so](https://readme.so/) - by [@octokatherine](https://github.com/octokatherine)
+Simple editor allows you to quickly add and customize all the sections you need for your project's readme
+
+### 
+### [Guides](https://github.com/thoughtbot/guides) - by [@thoughtbot](https://github.com/thoughtbot)
+Guides for working together, getting things done, programming well, and programming in style.
+
+### 
+### [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/) - by [Chris Beams](https://chris.beams.io/author/cbeams/)
+Commit messages matter. Here's how to write them well.
+
+### 
+### [Rubber Duck Method](https://en.wikipedia.org/wiki/Rubber_duck_debugging)
+A Classic
+
+Additional reading: [rubberduckdebugging.com](https://rubberduckdebugging.com/)
+
+### 
+### [High Scalability All Time Favorites](http://highscalability.com/all-time-favorites/)
+List of real life architectural challenges articles in said website.
 
 ## Authors
 
@@ -70,4 +91,7 @@ The OSSU curriculum is a complete education in computer science using online mat
 - [@josephmisiti](https://github.com/josephmisiti) Awesome Machine Learning
 - [CBRE](https://www.cbre.ca/) CBRE Annual Report on Tech Talent
 - [OSSU](https://github.com/ossu) Computer Science Path
+- [@octokatherine](https://github.com/octokatherine) ReadMe.so
+- [@thoughtbot](https://github.com/thoughtbot) Guides
+- [Chris Beams](https://chris.beams.io/author/cbeams/) How to Write A Git Commit Message
 - [@mariorobles93](https://www.github.com/mariorobles93)
